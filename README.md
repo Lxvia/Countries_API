@@ -1,5 +1,5 @@
 <h2>View app</h2>
-GitPages : <b>https://lxvia.github.io/Countries_API/</b>
+GitPages : <b>//</b>
 <h2>Download</h2><br>
 git clone : <b>git@github.com:Lxvia/Countries_API</b>
 <br><br>
